@@ -1,2 +1,3 @@
-# learn_css_grid_layout
-Estudos sobre css grid
+<h3>
+    Neste repositório estou conhecendo o CSS-GRID e aplicando em uma STORE do curso alura.
+</h3>
